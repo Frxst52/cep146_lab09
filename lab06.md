@@ -190,11 +190,82 @@
 
 3. ### Scenario: You want recipe suggestions based on ingredients you have at home
 
-  **Prompt:**
+   **Prompt:**
 
-  I would like a simple recipe:
+   I would like a simple and savoury recipe:
   
-  - Ingriendents: eggs, spam, black pepper, ketchup, cheese, rice, magic sarap.
-  - Must: a filipino style breakfast.
-  - Not allowed: salt.
+   - Ingriendents: eggs, spam, black pepper, ketchup, cheese, rice, magic sarap.
+   - Must: a filipino style breakfast.
+   - Not allowed: salt.
 
+   **The result:**
+   -------------
+   🍳 Spam & Egg Fried Rice (Filipino Style)
+
+   **Serves:** 2
+   
+   Prep Time: 10 minutes
+   
+   Cook Time: 10 minutes
+   
+   Total: 20 minutes
+
+🧂 Ingredients
+
+2 cups cooked rice (preferably day-old)
+
+2 eggs
+
+½ can Spam, diced
+
+1 tbsp cooking oil (or butter for richer flavor)
+
+1 sachet Magic Sarap
+
+¼ tsp black pepper (adjust to taste)
+
+2 tbsp ketchup (Filipino-style, like UFC or Jufran)
+
+¼ cup grated cheese (Eden or any melty cheese)
+
+🔪 Instructions
+
+Cook the Spam:
+
+Heat oil in a pan over medium heat.
+
+Add diced Spam and fry until golden brown and slightly crispy.
+
+Remove a few pieces for garnish (optional).
+
+Scramble the Eggs:
+
+In the same pan, push the Spam to one side.
+
+Crack in the eggs and scramble until just set.
+
+Add the Rice:
+
+Add the cooked rice and mix well with the Spam and eggs.
+
+Stir-fry for about 2–3 minutes to heat through.
+
+Season It:
+
+Sprinkle Magic Sarap and black pepper.
+
+Add ketchup and mix until the rice is evenly coated and slightly reddish.
+
+Finish with Cheese:
+
+Turn off the heat and mix in grated cheese until it melts into the rice.
+
+Serve:
+
+Plate the rice and top with the reserved crispy Spam pieces.
+
+Optional: serve with a fried egg on top for a silog-style finish (SpamSilog twist!).
+
+🍽️ Serving Suggestion
+
+Enjoy with a side of sliced tomatoes or a cup of hot coffee — very Pinoy breakfast vibes! 🇵🇭☕
