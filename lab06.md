@@ -199,73 +199,83 @@
    - Not allowed: salt.
 
    **The result:**
+   
    -------------
-   🍳 Spam & Egg Fried Rice (Filipino Style)
+   
+   ### 🍳 Spam & Egg Fried Rice (Filipino Style)
 
    **Serves:** 2
    
-   Prep Time: 10 minutes
+   **Prep Time:** 10 minutes
    
-   Cook Time: 10 minutes
+   **Cook Time:** 10 minutes
    
-   Total: 20 minutes
+   **Total:** 20 minutes
 
-🧂 Ingredients
+   -------------
 
-2 cups cooked rice (preferably day-old)
+   ### 🧂 Ingredients
 
-2 eggs
+   - 2 cups cooked rice (preferably day-old)
 
-½ can Spam, diced
+   - 2 eggs
 
-1 tbsp cooking oil (or butter for richer flavor)
+   - ½ can Spam, diced
 
-1 sachet Magic Sarap
+   - 1 tbsp cooking oil (or butter for richer flavor)
 
-¼ tsp black pepper (adjust to taste)
+   - 1 sachet Magic Sarap
 
-2 tbsp ketchup (Filipino-style, like UFC or Jufran)
+   - ¼ tsp black pepper (adjust to taste)
 
-¼ cup grated cheese (Eden or any melty cheese)
+   - 2 tbsp ketchup (Filipino-style, like UFC or Jufran)
 
-🔪 Instructions
+   - ¼ cup grated cheese (Eden or any melty cheese)
+  
+   ---------------
 
-Cook the Spam:
+   ### 🔪 Instructions
 
-Heat oil in a pan over medium heat.
+   1. **Cook the Spam:**
 
-Add diced Spam and fry until golden brown and slightly crispy.
+   - Heat oil in a pan over medium heat.
 
-Remove a few pieces for garnish (optional).
+   - Add diced Spam and fry until golden brown and slightly crispy.
 
-Scramble the Eggs:
+   - Remove a few pieces for garnish (optional).
 
-In the same pan, push the Spam to one side.
+   2. **Scramble the Eggs:**
 
-Crack in the eggs and scramble until just set.
+   - In the same pan, push the Spam to one side.
 
-Add the Rice:
+   - Crack in the eggs and scramble until just set.
 
-Add the cooked rice and mix well with the Spam and eggs.
+   3. **Add the Rice:**
 
-Stir-fry for about 2–3 minutes to heat through.
+   - Add the cooked rice and mix well with the Spam and eggs.
 
-Season It:
+   - Stir-fry for about 2–3 minutes to heat through.
 
-Sprinkle Magic Sarap and black pepper.
+   4. **Season It:**
 
-Add ketchup and mix until the rice is evenly coated and slightly reddish.
+   - Sprinkle Magic Sarap and black pepper.
 
-Finish with Cheese:
+   - Add ketchup and mix until the rice is evenly coated and slightly reddish.
 
-Turn off the heat and mix in grated cheese until it melts into the rice.
+   5. **Finish with Cheese:**
 
-Serve:
+   - Turn off the heat and mix in grated cheese until it melts into the rice.
 
-Plate the rice and top with the reserved crispy Spam pieces.
+   6. **Serve:**
 
-Optional: serve with a fried egg on top for a silog-style finish (SpamSilog twist!).
+   - Plate the rice and top with the reserved crispy Spam pieces.
 
-🍽️ Serving Suggestion
+   - Optional: serve with a fried egg on top for a silog-style finish (SpamSilog twist!).
 
-Enjoy with a side of sliced tomatoes or a cup of hot coffee — very Pinoy breakfast vibes! 🇵🇭☕
+   -------
+
+   ### 🍽️ Serving Suggestion
+
+   Enjoy with a side of sliced tomatoes or a cup of hot coffee — very Pinoy breakfast vibes! 🇵🇭☕
+
+   ----------
